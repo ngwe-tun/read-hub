@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 // app/protected/page.tsx
 'use client'; // This page needs to be a client component
 
